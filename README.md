@@ -1,4 +1,4 @@
-# Projekt badawczy
+# Projekt badawczy 2019/2020
 
 ## Terminy
 
@@ -30,3 +30,7 @@ Decyduje opiekun, jednak nie później niż ostatni dzień sesji egzaminacyjnej.
 | Agata Zdun-Ryżewska | 3 | Zmęczenie i wypalenie zawodowe, depresja, psychoonkologia |
 
 Bo więcej szczegółów zapraszam do kontaktu mailowego z opiekunami!
+
+## Regulamin przedmiotu
+
+[Regulamin](regulamin.pdf)
