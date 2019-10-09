@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Projekt badawczy
 
-You can use the [editor on GitHub](https://github.com/k-basinski/pb_www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Terminy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Rekrutacja
 
-### Markdown
+- 15 października, 23:59: deadline wybóru opiekunów (deklaracje mailowo do KB)
+- 17 października: lista zakwalifikowanych
+- 17 - 23 października: druga runda kwalifikacji
+- 24 październik: ostateczna lista
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Konferencja końcowaa
 
-```markdown
-Syntax highlighted code block
+Piątek w drugiej połowie maja 2020 (22.05 albo 29.05), hol główny CBM.
 
-# Header 1
-## Header 2
-### Header 3
+#### Termin oddania prac zaliczeniowych
 
-- Bulleted
-- List
+Decyduje opiekun, jednak nie później niż ostatni dzień sesji egzaminacyjnej.
 
-1. Numbered
-2. List
+## Opiekunowie projektów badawczych
 
-**Bold** and _Italic_ and `Code` text
+| opiekun | miejsca | tematyka |
+|---|---|---|
+| Krzysztof Basiński | 4 | Percepcja słuchowa, percepcja bólu |
+| Magdalena Błażek | 4 | Psychologia rodziny
+| Anna Marcinkowska | 4 | Wpływ tlenu hiperbarycznego na funkcjonowanie poznawcze, wpływ terapii tlenem hiperbarycznym w cukrzycy na nastrój |
+| Katarzyna Milska | 12 | [tematyka](opisy_opiekunow/k_milska.pdf) |
+| Natalia Nadrowska | 4 | Prężność rodzinna, prężność psychiczna, planowość i celowość [szczegóły](opisy_opiekunow/nadrowska)|
+| Katarzyna Nowicka-Sauer | 2 | Korelaty percepcji choroby, akceptacji choroby i szeroko pojętego jej postrzegania z perspektywy pacjenta |
+| Agata Zdun-Ryżewska | 3 | Zmęczenie i wypalenie zawodowe, depresja, psychoonkologia |
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k-basinski/pb_www/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Bo więcej szczegółów zapraszam do kontaktu mailowego z opiekunami!
