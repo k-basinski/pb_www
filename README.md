@@ -2,7 +2,7 @@
 
 ## Kontakt
 
-k DOT basinski AT gumed DOT edu DOT pl - w sprawach technicznych
+k (dot) basinski (at) gumed (dot) edu (dot) pl - w sprawach technicznych
 
 W sprawach merytorycznych proszę kontaktować się z opiekunami. 
 
@@ -15,7 +15,7 @@ W sprawach merytorycznych proszę kontaktować się z opiekunami.
 - 17 - 23 października: druga runda kwalifikacji
 - 24 październik: ostateczna lista
 
-#### Konferencja końcowaa
+#### Konferencja końcowa
 
 **Termin:** Piątek w drugiej połowie maja 2020 (22.05 albo 29.05), hol główny CBM.
 
@@ -37,7 +37,7 @@ Decyduje opiekun, jednak nie później niż ostatni dzień sesji egzaminacyjnej.
 | Katarzyna Nowicka-Sauer | 2 | Korelaty percepcji choroby, akceptacji choroby i szeroko pojętego jej postrzegania z perspektywy pacjenta |
 | Agata Zdun-Ryżewska | 3 | Zmęczenie i wypalenie zawodowe, depresja, psychoonkologia |
 
-Bo więcej szczegółów zapraszam do kontaktu mailowego z opiekunami!
+Po więcej szczegółów zapraszam do kontaktu mailowego z opiekunami!
 
 ## Regulamin przedmiotu
 
