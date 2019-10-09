@@ -1,5 +1,11 @@
 # Projekt badawczy 2019/2020
 
+## Kontakt
+
+k DOT basinski AT gumed DOT edu DOT pl - w sprawach technicznych
+
+W sprawach merytorycznych proszę kontaktować się z opiekunami. 
+
 ## Terminy
 
 #### Rekrutacja
@@ -11,7 +17,9 @@
 
 #### Konferencja końcowaa
 
-Piątek w drugiej połowie maja 2020 (22.05 albo 29.05), hol główny CBM.
+**Termin:** Piątek w drugiej połowie maja 2020 (22.05 albo 29.05), hol główny CBM.
+
+**Format:** Sesja posterowa, szczegóły w przyszłym semestrze.
 
 #### Termin oddania prac zaliczeniowych
 
