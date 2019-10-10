@@ -45,4 +45,4 @@ Po więcej szczegółów zapraszam do kontaktu mailowego z opiekunami!
 
 ## Postery
 
-- [2018/2019](postery_19/postery)
+- [2018/2019](postery_19/postery_19)
