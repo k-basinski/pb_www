@@ -42,3 +42,7 @@ Po więcej szczegółów zapraszam do kontaktu mailowego z opiekunami!
 ## Regulamin przedmiotu
 
 [Regulamin](regulamin.pdf)
+
+## Postery
+
+- [2018/2019](postery_19/postery)
