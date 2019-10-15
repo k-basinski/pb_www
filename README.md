@@ -1,5 +1,7 @@
 # Projekt badawczy 2019/2020
 
+**Uwaga! W związku z utrudnieniami w działaniu serwera pocztowego uczelni, ostateczny deadline zapisów na projekt badawczy jest przesunięty na środę, godzina 10 rano!**
+
 ## Kontakt
 
 k (dot) basinski (at) gumed (dot) edu (dot) pl - w sprawach technicznych
@@ -10,7 +12,7 @@ W sprawach merytorycznych proszę kontaktować się z opiekunami.
 
 #### Rekrutacja
 
-- 15 października, 23:59: deadline wybóru opiekunów (deklaracje mailowo do KB)
+- 16 października, 10:00: deadline wybóru opiekunów (deklaracje mailowo do KB)
 - 17 października: lista zakwalifikowanych
 - 17 - 23 października: druga runda kwalifikacji
 - 24 październik: ostateczna lista
