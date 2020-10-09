@@ -1,4 +1,4 @@
-## Opiekunowie projektów badawczych, 2020/2021
+## Opiekunowie projektów badawczych z Katedry Psychologii, 2020/2021
 
 | opiekun | miejsc | tematyka |
 |---|---|---|
