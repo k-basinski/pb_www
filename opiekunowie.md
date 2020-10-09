@@ -1,4 +1,4 @@
-## Opiekunowie projektów badawczych, 2019/2020
+## Opiekunowie projektów badawczych, 2020/2021
 
 | opiekun | miejsc | tematyka |
 |---|---|---|
