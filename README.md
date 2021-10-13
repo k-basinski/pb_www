@@ -1,6 +1,4 @@
-# Projekt badawczy 2019/2020
-
-**Uwaga! W związku z utrudnieniami w działaniu serwera pocztowego uczelni, ostateczny deadline zapisów na projekt badawczy jest przesunięty na środę, godzina 10 rano!**
+# Projekt badawczy 2021/2022
 
 ## Kontakt
 
@@ -10,40 +8,42 @@ W sprawach merytorycznych proszę kontaktować się z opiekunami.
 
 ## Terminy
 
-#### Rekrutacja
+- Wybór opiekuna do niedzieli, 17.10 do 23:59.
+- Wyniki pierwszej rundy we wtorek, 19.10
+- Drugie spotkanie organizacyjne w środę, 20.10 o 14:30
+- Wyniki drugiej rundy do niedzieli, 24.10
 
-- 16 października, 10:00: deadline wybóru opiekunów (deklaracje mailowo do KB)
-- 17 października: lista zakwalifikowanych
-- 17 - 23 października: druga runda kwalifikacji
-- 24 październik: ostateczna lista
 
-#### Konferencja końcowa
+## Konferencja końcowa
 
-**Termin:** Piątek w drugiej połowie maja 2020 (22.05 albo 29.05), hol główny CBM.
+**Termin:** Maj 2022
 
 **Format:** Sesja posterowa, szczegóły w przyszłym semestrze.
 
-#### Termin oddania prac zaliczeniowych
+## Termin oddania prac zaliczeniowych
 
 Decyduje opiekun, jednak nie później niż ostatni dzień sesji egzaminacyjnej.
 
-## Opiekunowie projektów badawczych
+## Opiekunowie projektów badawczych, 2021/2022
 
-| opiekun | miejsca | tematyka |
-|---|---|---|
-| Krzysztof Basiński | 4 | Percepcja słuchowa, percepcja bólu |
-| Magdalena Błażek | 4 | Psychologia rodziny
-| Anna Marcinkowska | 4 | Wpływ tlenu hiperbarycznego na funkcjonowanie poznawcze, wpływ terapii tlenem hiperbarycznym w cukrzycy na nastrój |
-| Katarzyna Milska | 12 | [tematyka](opisy_opiekunow/k_milska.pdf) |
-| Natalia Nadrowska | 4 | Prężność rodzinna, prężność psychiczna, planowość i celowość [szczegóły](opisy_opiekunow/nadrowska)|
-| Katarzyna Nowicka-Sauer | 2 | Korelaty percepcji choroby, akceptacji choroby i szeroko pojętego jej postrzegania z perspektywy pacjenta |
-| Agata Zdun-Ryżewska | 3 | Zmęczenie i wypalenie zawodowe, depresja, psychoonkologia |
+| imie       | nazwisko      |   miejsca |  tematyka                                                                                                                  |
+|:-----------|:--------------|----------:|:------------------------------------------------------------------------------------------------------------------------------|
+| Małgorzata | Basińska      |         2 | Przetwarzanie bodźców dotykowych i kontrola motoryczna u zdrowych osób dorosłych                                              |
+| Magdalena  | Błażek        |         2 | Relacje rodzinne i interpersonalne, kryzysy nienormatywne, psychoseksuologia, więzi uczuciowe                                 |
+| Natalia    | Nadrowska     |         5 | Prężność rodzinna - zasoby indywidualne i rodzinne w radzeniu sobie ze stresem i kryzysem                                     |
+| Paulina    | Piechowiak    |         5 | Tematyka stresu,szeroko pojęta (zaburzeń z nim związanych, sposobów radzenia sobie itp), psychologia kliniczna osób dorosłych |
+| Alicja     | Raczak        |         5 | Perfekcjonizm, narcyzm                                                                                                        |
+| Marta      | Ruszkiewicz   |         5 | Jakość życia warunkowana chorobą, stres i radzenie sobie z nim, wypalenie zawodowe |
+| Angelika | Sawicka | 2 | Funkcjonowanie poznawcze osób starszych (65-75lst) w odpowiedzi na trening HIIT, Funkcjonowanie poznawcze w odpowiedzi na trening HIIT wykonywany w wirtualnej rzeczywistości (VR) i bez VR w grupie młodych dorosłych |
+| Maciej     | Walkiewicz    |         5 |                                                                                                                               |
+| Agata      | Zdun-Ryżewska |         5 | Zmęczenie/ wypalenie, depresja, psychoonkologia                                                                                |
+| Krzysztof  | Basiński      |         5 | Przetwarzanie predykcyjne, percepcja słuchowa, psychologia muzyki |
 
-Po więcej szczegółów zapraszam do kontaktu mailowego z opiekunami!
 
 ## Regulamin przedmiotu
 
 [Regulamin](regulamin.pdf)
+
 
 ## Postery
 
