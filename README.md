@@ -35,7 +35,7 @@ Decyduje opiekun, jednak nie później niż ostatni dzień sesji egzaminacyjnej.
 | Alicja     | Raczak        |         5 | Perfekcjonizm, narcyzm                                                                                                        |
 | Marta      | Ruszkiewicz   |         5 | Jakość życia warunkowana chorobą, stres i radzenie sobie z nim, wypalenie zawodowe |
 | Angelika | Sawicka | 2 | Funkcjonowanie poznawcze osób starszych (65-75lst) w odpowiedzi na trening HIIT, Funkcjonowanie poznawcze w odpowiedzi na trening HIIT wykonywany w wirtualnej rzeczywistości (VR) i bez VR w grupie młodych dorosłych |
-| Maciej     | Walkiewicz    |         5 |                                                                                                                               |
+| Maciej     | Walkiewicz    |         5 | Psychologiczne czynniki związane z wykonywaniem zawodów medycznych. Zastosowanie symulowanego pacjenta w nauczaniu kompetencji klinicznych.|
 | Agata      | Zdun-Ryżewska |         5 | Zmęczenie/ wypalenie, depresja, psychoonkologia                                                                                |
 | Krzysztof  | Basiński      |         5 | Przetwarzanie predykcyjne, percepcja słuchowa, psychologia muzyki |
 
