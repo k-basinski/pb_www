@@ -1,43 +1,43 @@
-# Projekt badawczy 2021/2022
+# Projekt badawczy 2022/2023
+
 
 ## Kontakt
 
-k (dot) basinski (at) gumed (dot) edu (dot) pl - w sprawach technicznych
+k (dot) basinski (at) gumed (dot) edu (dot) pl - tylko **w sprawach technicznych**
 
-W sprawach merytorycznych proszę kontaktować się z opiekunami. 
+W sprawach merytorycznych proszę kontaktować się z **opiekunami**. 
 
 ## Terminy
 
-- Wybór opiekuna do niedzieli, 17.10 do 23:59.
-- Wyniki pierwszej rundy we wtorek, 19.10
-- Drugie spotkanie organizacyjne w środę, 20.10 o 14:30
-- Wyniki drugiej rundy do niedzieli, 24.10
-
+- Wybór opiekuna do czwartku, 27.10 do 23:59.
+- Wyniki pierwszej rundy w piątek, 28.10
+- Druga runda w pierwszym tygodniu listopada
 
 ## Konferencja końcowa
 
-**Termin:** Maj 2022
+**Termin:** Czerwiec 2023
 
 **Format:** Sesja posterowa, szczegóły w przyszłym semestrze.
 
 ## Termin oddania prac zaliczeniowych
 
-Decyduje opiekun, jednak nie później niż ostatni dzień sesji egzaminacyjnej.
+Decyduje opiekun, jednak nie później niż ostatni dzień letniej sesji egzaminacyjnej (3 lipca 2023).
 
 ## Opiekunowie projektów badawczych, 2021/2022
 
-| imie       | nazwisko      |   miejsca |  tematyka                                                                                                                  |
-|:-----------|:--------------|----------:|:------------------------------------------------------------------------------------------------------------------------------|
-| Małgorzata | Basińska      |         2 | Przetwarzanie bodźców dotykowych i kontrola motoryczna u zdrowych osób dorosłych                                              |
-| Magdalena  | Błażek        |         2 | Relacje rodzinne i interpersonalne, kryzysy nienormatywne, psychoseksuologia, więzi uczuciowe                                 |
-| Natalia    | Nadrowska     |         5 | Prężność rodzinna - zasoby indywidualne i rodzinne w radzeniu sobie ze stresem i kryzysem                                     |
-| Paulina    | Piechowiak    |         5 | Tematyka stresu,szeroko pojęta (zaburzeń z nim związanych, sposobów radzenia sobie itp), psychologia kliniczna osób dorosłych |
-| Alicja     | Raczak        |         5 | Perfekcjonizm, narcyzm                                                                                                        |
-| Marta      | Ruszkiewicz   |         5 | Jakość życia warunkowana chorobą, stres i radzenie sobie z nim, wypalenie zawodowe |
-| Angelika | Sawicka | 2 | Funkcjonowanie poznawcze osób starszych (65-75lst) w odpowiedzi na trening HIIT, Funkcjonowanie poznawcze w odpowiedzi na trening HIIT wykonywany w wirtualnej rzeczywistości (VR) i bez VR w grupie młodych dorosłych |
-| Maciej     | Walkiewicz    |         5 | Psychologiczne czynniki związane z wykonywaniem zawodów medycznych. Zastosowanie symulowanego pacjenta w nauczaniu kompetencji klinicznych.|
-| Agata      | Zdun-Ryżewska |         5 | Zmęczenie/ wypalenie, depresja, psychoonkologia                                                                                |
-| Krzysztof  | Basiński      |         5 | Przetwarzanie predykcyjne, percepcja słuchowa, psychologia muzyki |
+| imie       | nazwisko              |   miejsca | temat                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|:-----------|:----------------------|----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Aleksandra | Stańska               |         4 | W ramach seminarium zrealizowane zostaną tematy z zakresu psychologii klinicznej i zdrowia. Badania prowadzone będą w grupach osób dorosłych, zaś ich tematyka będzie obejmowała jakość życia oraz pozostałe aspekty psychologiczne osób chorych somatycznie (głównie borykających się z chorobami układu sercowo-naczyniowego, chorujących pulmonologicznie, przed/po przeszczepie serca i płuc, przed/po zabiegach kardiochirurgicznych) |
+| Anna       | Burkiewicz            |         4 | Postrzeganie wybranych zaburzeń psychicznych wśród studentów                                                                                                                                                                                                                                                                                                                                                                               |
+| Paulina    | Piechowiak            |         4 | Relacje cech osobowości (w pięcioczynnikowym ujęciu Goldberga !) z najróżniejszymi wybranymi przez studentów zmiennymi                                                                                                                                                                                                                                                                                                                     |
+| Karolina   | Wysokińska-Zakrzewska |         4 | Psychologia edukacyjna-aspekty osobowościowe, kompetencje emocjonalno-społeczne nauczycieli                                                                                                                                                                                                                                                                                                                                                |
+| Maciej     | Walkiewicz            |         4 | Psychologiczne czynniki związane z wykonywaniem zawodów medycznych. Psychologia kliniczna i psychoterapia dzieci i młodzieży.                                                                                                                                                                                                                                                                                                              |
+| Małgorzata | Basińska              |         4 | Eksperymenty psychofizyczne z wykorzystaniem PsychoPy. Przetwarzanie bodźców wzrokowych i dotykowych.                                                                                                                                                                                                                                                                                                                                      |
+| Marta      | Ruszkiewicz           |         4 | Jakość życia, stres i radzenie sobie z nim, normy, standardy, wartości i ich rola w życiu człowieka.                    
+| Natalia    | Budzyńska             |      4    |  |                                                                                                                                                                                                                                                                                                                   |
+| Małgorzata | Tartas             |      4    |  |                                                                                                                                                                                                                                                                                                                   |
+| Joanna    | Moryś             |      4    |  |                                                                                                                                                                                                                                                                                                                   |
+| Angelika | Sawicka | 1 |  Funkcjonowanie poznawcze osób starszych po 65 roku życia w odpowiedzi na trening HIIT. |
 
 
 ## Regulamin przedmiotu
